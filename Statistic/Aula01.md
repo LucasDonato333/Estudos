@@ -10,21 +10,21 @@
 |Chai Latte	|Quente|120|25|60|
 
 
-**The individuals in this data set are:**(_Os individuos neste conjunto de dados são_)
+**The individuals in this data set are:** ( _Os individuos neste conjunto de dados são_)
 
-- [ ] A) Ben's Beans customers(_clientes Ben's Beans_)
-- [X] B) Ben's Beans contents(_Conteúdo do Ben's Beans_)
-- [ ] C) Caffeine contents(_Conteúdo de cafeína_)
+- [ ] A) Ben's Beans customers ( _Clientes Ben's Beans_)
+- [X] B) Ben's Beans contents ( _Conteúdo do Ben's Beans_)
+- [ ] C) Caffeine contents ( _Conteúdo de cafeína_)
 
 O individuo mencionado não precisa necessariamente ser uma pessoa.
 O conjunto de dados é na verdade um conteúdo da cafeteria Ben's Beans, exemplo produtos da cafeteria, como Brewed Coffe, e o Cappuccino.
 
-**This data set contains:**(_Este conjunto de dados contém_)
+**This data set contains:** ( _Este conjunto de dados contém_)
 
-- [X] A) 4 variables, 1 of which is categorical(_4 variáveis, 1 das quais é categórica_)
-- [ ] B) 4 variables, 2 of which are categorical(_4 variáveis, 2 das quais são categóricas_)
-- [ ] C) 6 variables, 1 of which is categorical(_6 variáveis, 1 das quais é categórica_)
-- [ ] D) 6 variables, 2 of which are categorical(_6 variáveis, 2 das quais são categóricas_)
+- [X] A) 4 variables, 1 of which is categorical ( _4 variáveis, 1 das quais é categórica_)
+- [ ] B) 4 variables, 2 of which are categorical ( _4 variáveis, 2 das quais são categóricas_)
+- [ ] C) 6 variables, 1 of which is categorical ( _6 variáveis, 1 das quais é categórica_)
+- [ ] D) 6 variables, 2 of which are categorical ( _6 variáveis, 2 das quais são categóricas_)
 
 O data set tem 4 variáveis, sendo elas "Tipo", "Calorias", "Açucar", "Cafeína".
 A variável "Tipo" é categorica ou qualitativa, pois não possui categoria .Ela representa uma classificação individual.
@@ -44,3 +44,4 @@ Variáveis ordinais: existe uma ordenação entre as categorias. Exemplos: escol
 Referencias:
 
 [Tipos de Variaveis(Universidade Federal do Paraná)](http://leg.ufpr.br/~silvia/CE055/node8.html)
+[Khan Academy - Analyzing one categorical variable](https://www.khanacademy.org/math/ap-statistics/analyzing-categorical-ap/analyzing-one-categorical-variable/v/identifying-individuals-variables-and-categorical-variables-in-a-data-set)
