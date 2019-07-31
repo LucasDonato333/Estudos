@@ -29,8 +29,8 @@ O conjunto de dados é na verdade um conteúdo da cafeteria Ben's Beans, exemplo
 O data set tem 4 variáveis, sendo elas "Tipo", "Calorias", "Açucar", "Cafeína".
 A variável "Tipo" é categorica ou qualitativa, pois não possui categoria .Ela representa uma classificação individual.
 
-<hr>
-Camille is comparing different apartment complexes. Here is the data she collected. ( _Camille está comparando diferentes condominios. Aqui estão os dados que ela coletou._)
+------------------------------
+**Camille is comparing different apartment complexes. Here is the data she collected.** ( *Camille está comparando diferentes condominios. Aqui estão os dados que ela coletou.*)
 
 
 Nome do Condominio | Quartos | Banheiros | Aluguel | O aluguel Inclui Aquecedor | Comodidades|
