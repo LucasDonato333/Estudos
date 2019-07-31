@@ -43,5 +43,5 @@ Variáveis ordinais: existe uma ordenação entre as categorias. Exemplos: escol
 
 Referencias:
 
-[Tipos de Variaveis(Universidade Federal do Paraná)](http://leg.ufpr.br/~silvia/CE055/node8.html)
+[Tipos de Variaveis(Universidade Federal do Paraná)](http://leg.ufpr.br/~silvia/CE055/node8.html)<br>
 [Khan Academy - Analyzing one categorical variable](https://www.khanacademy.org/math/ap-statistics/analyzing-categorical-ap/analyzing-one-categorical-variable/v/identifying-individuals-variables-and-categorical-variables-in-a-data-set)
