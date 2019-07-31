@@ -29,6 +29,33 @@ O conjunto de dados é na verdade um conteúdo da cafeteria Ben's Beans, exemplo
 O data set tem 4 variáveis, sendo elas "Tipo", "Calorias", "Açucar", "Cafeína".
 A variável "Tipo" é categorica ou qualitativa, pois não possui categoria .Ela representa uma classificação individual.
 
+<hr>
+Camille is comparing different apartment complexes. Here is the data she collected. ( _Camille está comparando diferentes condominios. Aqui estão os dados que ela coletou._)
+
+
+Nome do Condominio | Quartos | Banheiros | Aluguel | O aluguel Inclui Aquecedor | Comodidades|
+| - | - | - | - | - | - |
+| Grand Vistas | 2 | 2 | 990 | Não | centro de fitness, piscina |
+Maple Ridge | 2 | 1,5 | 685 | Sim | fitness |
+| Moinho Velho | 2 | 1,5 | 790 | Não | piscina |
+| Willow Brook | 2 | 2 | 885 | Não | jacuzzi |
+
+
+**The individuals in this data set are:**(_OS individuos neste conjunto de dados são:_)
+
+- [ ] A) Amenities ( _Comodidades_)
+- [ ] B) Landlords ( _Locador_)
+- [X] C) Apartment complexes ( _Condominio_)
+
+
+**This data set contains:**(_Este conjunto de dados contém:_)
+
+- [ ] A) 4 variables, 2 of which is categorical(_4 variáveis, 2 das quais é categórica_)
+- [ ] B) 4 variables, 3 of which are categorical(_4 variáveis, 3 das quais são categóricas_)
+- [X] C) 5 variables, 2 of which is categorical(_5 variáveis, 2 das quais é categórica_)
+- [ ] D) 5 variables, 3 of which are categorical(_5 variáveis, 3 das quais são categóricas_)
+
+
 Definição
 <details>
 <summary>Quantitativa</summary>
