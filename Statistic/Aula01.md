@@ -35,10 +35,10 @@ Camille is comparing different apartment complexes. Here is the data she collect
 
 Nome do Condominio | Quartos | Banheiros | Aluguel | O aluguel Inclui Aquecedor | Comodidades|
 | - | - | - | - | - | - |
-| Grand Vistas | 2 | 2 | 990 | Não | centro de fitness, piscina |
-Maple Ridge | 2 | 1,5 | 685 | Sim | fitness |
-| Moinho Velho | 2 | 1,5 | 790 | Não | piscina |
-| Willow Brook | 2 | 2 | 885 | Não | jacuzzi |
+| Grand Vistas | 2 | 2 | 990 | Não | Academia, Piscina |
+|Maple Ridge | 2 | 1,5 | 685 | Sim | Academia |
+| Old Mill | 2 | 1,5 | 790 | Não | Piscina |
+| Willow Brook | 2 | 2 | 885 | Não | Jacuzzi |
 
 
 **The individuals in this data set are:**(_OS individuos neste conjunto de dados são:_)
