@@ -55,7 +55,10 @@ Nome do Condominio | Quartos | Banheiros | Aluguel | O aluguel Inclui Aquecedor 
 - [X] C) 5 variables, 2 of which is categorical(_5 variáveis, 2 das quais é categórica_)
 - [ ] D) 5 variables, 3 of which are categorical(_5 variáveis, 3 das quais são categóricas_)
 
+------------------------------
 
+
+------------------------------
 Definição
 <details>
 <summary>Quantitativa</summary>
