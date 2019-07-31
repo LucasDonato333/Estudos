@@ -1,3 +1,4 @@
+### Dados nutricionais de bebidas populares da cafeteria Ben's Beans
 
 |Bebidas|Tipo|Calorias|Açucar(g)|Cafeina(mg)|
 |----|----|----|----|----|
@@ -9,7 +10,7 @@
 |Chai Latte	|Quente|120|25|60|
 
 
-**The individuals in this data set are:**(_OS individuos neste conjunto de dados são:_)
+**The individuals in this data set are:**(_Os individuos neste conjunto de dados são_)
 
 - [ ] A) Ben's Beans customers(_clientes Ben's Beans_)
 - [X] B) Ben's Beans contents(_Conteúdo do Ben's Beans_)
@@ -18,7 +19,7 @@
 O individuo mencionado não precisa necessariamente ser uma pessoa.
 O conjunto de dados é na verdade um conteúdo da cafeteria Ben's Beans, exemplo produtos da cafeteria, como Brewed Coffe, e o Cappuccino.
 
-**This data set contains:**(_Este conjunto de dados contém:_)
+**This data set contains:**(_Este conjunto de dados contém_)
 
 - [X] A) 4 variables, 1 of which is categorical(_4 variáveis, 1 das quais é categórica_)
 - [ ] B) 4 variables, 2 of which are categorical(_4 variáveis, 2 das quais são categóricas_)
