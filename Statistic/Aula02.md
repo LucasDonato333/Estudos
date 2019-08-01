@@ -23,3 +23,7 @@ Uma forma de representar a tabela a cima é criando um diagrama de Venn. Esse di
 <div id="referencias"/>
 
 [Khan Academy - Two-way frequency tables and Venn diagrams](https://www.khanacademy.org/math/ap-statistics/analyzing-categorical-ap/stats-two-way-tables/v/two-way-frequency-tables-and-venn-diagrams)
+
+<hr>
+
+[![](images/back.jng)](Aula01.md)   [![](images/next.jng)](Aula03.md)   
