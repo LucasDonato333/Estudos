@@ -2,18 +2,19 @@
 (If necessary, round your answers to the hearest hundreth)** ( _Preencha a seguinte tabela bidirecional de frequências relativas.
 (Se necessário, arredonde suas respostas para o centésimo mais próximo)_)
 
-| | Sport Utility Vehicle (SUV) | Carro Esportivo |
+| |Sport Utility Vehicle (SUV)|Carro Esportivo|
 |:---|:---:|:---:|
-|**Acidente do último ano** | 28 | 35 |
-| **Nenhum acidente no último ano** | 97 | 104 |
+|**Acidente do último ano**|28|35|
+|**Nenhum acidente no último ano**|97|104|
+
 <br> <hr> <br>
 
 **Complete a sequencia:**
 
 | | Sport Utility Vehicle (SUV) | Carro Esportivo |
 |:---|:---:|:---:|
-|**Acidente do último ano** | | |
-|**Nenhum acidente no último ano** | | |
+|**Acidente do último ano** |? |? |
+|**Nenhum acidente no último ano** |? |? |
 |**Total** | 1,00 | 1,00 |
 
 Para realizar o calculo, é necessário realizar um somatório das colunas, de forma independente.
