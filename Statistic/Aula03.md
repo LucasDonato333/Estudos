@@ -19,11 +19,13 @@
 
 Para realizar o calculo, é necessário realizar um somatório das colunas, de forma independente.
 
-_Sport Utility Vehicle (SUV)
-28 + 97 = 125_
+|Sport Utility Vehicle (SUV)|
+|:-|
+|28 + 97 = 125|
 
-_Sports Car
-35 + 104 = 139_
+|Sports Car|
+|:-|
+|35 + 104 = 139|
 
 Sabendo o valor total, vamos dividir os dados de cada célula, pelo total da sua própria coluna.
 
