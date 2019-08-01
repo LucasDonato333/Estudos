@@ -19,12 +19,18 @@ Uma forma de representar a tabela a cima é criando um diagrama de Venn. Esse di
 <br>
 <hr>
 
-**Referencias**
+**Referencias: **
 <div id="referencias"/>
+
+
 
 [Khan Academy - Two-way frequency tables and Venn diagrams](https://www.khanacademy.org/math/ap-statistics/analyzing-categorical-ap/stats-two-way-tables/v/two-way-frequency-tables-and-venn-diagrams)
 
+
+
 <hr>
-            
-[![](images/back.png)](Aula03.md)![](images/bar.png)[![](images/next.png)](Aula03.md)
- 
+
+
+
+[![](images/back.png)](Aula03.md)            ![      ](images/bar.png)                                   [![](images/next.png)](Aula03.md)
+  
