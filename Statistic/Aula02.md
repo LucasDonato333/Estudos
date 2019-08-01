@@ -1,5 +1,3 @@
-[![Voltar](images/back.jpg)](Aula01.md)<br><br>
-<hr>
 **Two-way frequency tables and Venn diagrams**( _Tabelas de frequências bidirecionais e diagramas de Venn_)
 
 Existem 12 cookies
@@ -28,4 +26,4 @@ Uma forma de representar a tabela a cima é criando um diagrama de Venn. Esse di
 
 <hr>
             
-[![](images/back.jpg)](Aula03.md)![](images/bar.png)[![](images/next.jpg)](Aula03.md)
+[![](images/back.png)](Aula03.md)![](images/bar.png)[![](images/next.png)](Aula03.md)
