@@ -78,4 +78,4 @@ Referencias:
 
 ------------------------------
 
-[![](images/next.png)](Aula02.md)
+[![](images/next.jpg)](Aula02.md)
