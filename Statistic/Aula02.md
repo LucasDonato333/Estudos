@@ -1,4 +1,5 @@
 [![Voltar](images/back.jpg)](Aula01.md)<br><br>
+<hr>
 **Two-way frequency tables and Venn diagrams**( _Tabelas de frequências bidirecionais e diagramas de Venn_)
 
 Existem 12 cookies
