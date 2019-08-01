@@ -27,3 +27,4 @@ Uma forma de representar a tabela a cima é criando um diagrama de Venn. Esse di
 <hr>
             
 [![](images/back.png)](Aula03.md)![](images/bar.png)[![](images/next.png)](Aula03.md)
+ 
