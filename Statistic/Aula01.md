@@ -56,9 +56,6 @@ Nome do Condominio | Quartos | Banheiros | Aluguel | O aluguel Inclui Aquecedor 
 - [ ] D) 5 variables, 3 of which are categorical(_5 variáveis, 3 das quais são categóricas_)
 
 ------------------------------
-
-
-------------------------------
 Definição
 <details>
 <summary>Quantitativa</summary>
@@ -71,7 +68,14 @@ Variáveis nominais: não existe ordenação dentre as categorias. Exemplos: sex
 Variáveis ordinais: existe uma ordenação entre as categorias. Exemplos: escolaridade (1o, 2o, 3o graus), estágio da doença (inicial, intermediário, terminal), mês de observação (janeiro, fevereiro,..., dezembro).
 </details>
 
+------------------------------
+
+
 Referencias:
 
 [Tipos de Variaveis(Universidade Federal do Paraná)](http://leg.ufpr.br/~silvia/CE055/node8.html)<br>
 [Khan Academy - Analyzing one categorical variable](https://www.khanacademy.org/math/ap-statistics/analyzing-categorical-ap/analyzing-one-categorical-variable/v/identifying-individuals-variables-and-categorical-variables-in-a-data-set)
+
+------------------------------
+
+[![](images/next.png)](Aula02.md)
