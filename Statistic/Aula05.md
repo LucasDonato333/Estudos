@@ -26,8 +26,6 @@
 
 Iremos organizar os números em ordem crescente
 
-|Idades|
-|1|3|4|5|6|9|16|18|19|22|25|26|27|29|32|42|45|51|58|63|
 <table border="1">
 	<th colspan="19">IDADES</tr>
 		<td>1</td>
@@ -58,6 +56,7 @@ Para organizar, iremos separ esses dados em Buckets (intervalos),e dados que cab
 Exemplo:
 
 |Bucket|Numeros|
+|-|-|
 |0-9||
 |10-19||
 |20-29||
@@ -69,14 +68,6 @@ Exemplo:
 
 O proximo passo é preencher a coluna vazia. Para isso iremos contar quantos número tem na sequencia da primeira coluna.<br>
 Exemplo<br>
- 
-0 á 9 = |1|3|4|5|6|9|
-10 á 19 = |16|18|19|
-20 á 29 = |22|25|26|27|29|
-30 á 39 = |32|
-40 á 49 = |42|45|
-50 á 59 = |51|58|
-60 á 69 = |63|
 
 
 |Bucket|Dados|
