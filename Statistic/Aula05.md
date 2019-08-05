@@ -1,16 +1,59 @@
 **Creating a histogram**( _Criando um histograma_)
-
-|Idades|
-|1|3|27|32|5|63|26|25|18|16|4|45|29|19|22|51|58|9|42|6|
-
+<table border="1">
+	<th colspan="19">IDADES</tr>
+		<td>1</td>
+		<td>3</td>
+		<td>27</td>
+		<td>32</td>
+		<td>5</td>
+		<td>63</td>
+		<td>26</td>
+		<td>25</td>
+		<td>18</td>
+		<td>16</td>
+		<td>4</td>
+		<td>45</td>
+		<td>29</td>
+		<td>19</td>
+		<td>22</td>
+		<td>51</td>
+		<td>58</td>
+		<td>9</td>
+		<td>42</td>
+		<td>6</td>
+	</tr>
+</table>
 
 Iremos organizar os números em ordem crescente
 
 |Idades|
 |1|3|4|5|6|9|16|18|19|22|25|26|27|29|32|42|45|51|58|63|
+<table border="1">
+	<th colspan="19">IDADES</tr>
+		<td>1</td>
+		<td>3</td>
+		<td>4</td>
+		<td>5</td>
+		<td>6</td>
+		<td>9</td>
+		<td>16</td>
+		<td>18</td>
+		<td>19</td>
+		<td>22</td>
+		<td>25</td>
+		<td>26</td>
+		<td>27</td>
+		<td>29</td>
+		<td>32</td>
+		<td>42</td>
+		<td>45</td>
+		<td>51</td>
+		<td>58</td>
+		<td>63</td>
+	</tr>
+</table>
 
-
-Para organizar, iremos separ esses dados em Buckets.
+Para organizar, iremos separ esses dados em Buckets (intervalos),e dados que cabem nesses intervalos.
 
 Exemplo:
 
@@ -34,9 +77,6 @@ Exemplo<br>
 40 á 49 = |42|45|
 50 á 59 = |51|58|
 60 á 69 = |63|
-
-
-
 
 
 |Bucket|Dados|
