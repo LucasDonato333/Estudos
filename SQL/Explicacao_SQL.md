@@ -43,7 +43,7 @@ Supondo que a tabela "_Customers_" tem as seguintes informações
 >Customers
 
 |CustomersId|Name|Number|
-|---|---|
+|---|---|---|
 |1|Flex|32|
 |2|Dijon|89|
 |3|FireB|25|
@@ -53,7 +53,7 @@ E a tabela "_Order_" tenha os seguintes dados.
 >Order
 
 |CustomersId|Name_Order|Number_Order|
-|---|---|
+|---|---|---|
 |1|Blood|322000|
 |2|Water|28394|
 |3|Ground|12253|
@@ -62,7 +62,7 @@ E a tabela "_Order_" tenha os seguintes dados.
 Realizando um **Left Join** as tabelas ficarão da seguinte forma.
 
 |CustomersId|Name|Number|CustomersId|Name_Order|Number_Order|
-|---|---|---|---|
+|---|---|---|---|---|---|
 |1|Flex|32|1|Blood|322000|
 |2|Dijon|89|2|Water|28394|
 |3|FireB|25|3|Ground|12253|
